@@ -1,4 +1,4 @@
-# Influenza on Context-Specific Networks
+# Context-Specific Network Generation
 
 MATLAB code for generating context-specific networks by lifting the interaction structure of the Warwick diary data, and simulating flu dynamics on the network
 

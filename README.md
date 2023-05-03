@@ -56,5 +56,5 @@ In the script SIRReduceInteractions_script.m, which calls the SIRReduceInteracti
 ## References
 
 1. Tristan Ursell (2020). [Random Numbers from a Discrete Distribution](https://www.mathworks.com/matlabcentral/fileexchange/34101-random-numbers-from-a-discrete-distribution), MATLAB Central File Exchange. Retrieved April 22, 2020.
-2. Read JM, Eames KT, Edmunds WJ. Dynamic social networks and the implications for the spread of infectious disease. Journal of The Royal Society Interface. 2008; 5(26):1001–1007.
+2. [Read JM, Eames KT, Edmunds WJ. Dynamic social networks and the implications for the spread of infectious disease. Journal of The Royal Society Interface. 2008; 5(26):1001–1007](http://dx.doi.org/10.1098/rsif.2008.0013).
 3. [Octave-networks-toolbox (GitHub). DOI: 10.5281/zenodo.22398](http://dx.doi.org/10.5281/zenodo.22398).

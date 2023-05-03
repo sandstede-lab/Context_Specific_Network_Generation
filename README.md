@@ -11,9 +11,9 @@ MATLAB code for generating context-specific networks by lifting the interaction 
 
 This software generates context-specific networks by lifting the interaction structure of the Warwick diary data. The software inputs the diary data and outputs three individual sub-networks: home, social, and work interaction networks with an extended population size and comparable structure to the diary data. The software also simulates influenza spread over the combined network.
 
-We adapted some of our functions from an online GitHub toolbox: octave-networks-toolbox, DOI: 10.5281/zenodo.22398 (http://dx.doi.org/10.5281/zenodo.22398). Additionally, we adapted an additional function from the MATLAB Central File Exchange by Tristan Ursell (see reference [1]). The specific files are cited in the Exposition below. All other files were written by the authors. 
+We adapted some of our functions from an online GitHub toolbox: [octave-networks-toolbox, DOI: 10.5281/zenodo.22398](http://dx.doi.org/10.5281/zenodo.22398). Additionally, we adapted an additional function from the MATLAB Central File Exchange by Tristan Ursell (see reference [1]). The specific files are cited in the Exposition below. All other files were written by the authors. 
 
-This software reproduces the computations presented in K. Mallory, J.R. Abrams, A. Schwartz, M.V. Ciocanel, A. Volkening, and B. Sandstede, "Influenza spread on context-specific networks lifted from interaction-based diary data," Royal Society Open Science (2021). https://doi.org/10.1098/rsos.191876
+This software reproduces the computations presented in [K. Mallory, J.R. Abrams, A. Schwartz, M.V. Ciocanel, A. Volkening, and B. Sandstede, "Influenza spread on context-specific networks lifted from interaction-based diary data," Royal Society Open Science (2021)](https://doi.org/10.1098/rsos.191876).
 
 Details about the method can be found in the manuscript.
 
